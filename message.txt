@@ -1,4 +1,4 @@
-
+#Enter the text you want to send inside ""
 
 "Text You Want to Send"
 
